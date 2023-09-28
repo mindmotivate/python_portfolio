@@ -7,3 +7,5 @@ This repository contains my projects and experiments with Python for data scienc
 - It has a wide range of modules and packages that extend its functionality and enable me to perform complex tasks with just a few lines of code.
 
 I hope you find my projects interesting and useful. They showcase my progress and skills in Python for data analysis, visualization, web scraping, machine learning, and more. I'm always eager to learn new things and improve my coding abilities.
+
+You may contact me directly @  email@email.com
